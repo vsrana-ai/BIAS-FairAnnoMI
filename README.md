@@ -3,10 +3,10 @@
 In the folder "notebooks," there are two Jupyter notebooks:
 
 - **MatchZoo**: to run the experiments with the models provided by the Python library MatchZoo
-- **BERT**: it uses TFR-BERT following the tutorial of TensorFlow. The execution requires more than 24 GiB GPU, tested on a machine with 48 GiB GPU and 45 GiB RAM.
+- **BERT**: It uses TFR-BERT following the tutorial of TensorFlow. The execution requires more than 24 GiB GPUs, which are tested on a machine with 48 GiB GPUs and 45 GiB RAMs.
 
 ### Publication (Conference ECIR - BIAS) 
-#### Data Augmentation for Reliability and Fairness in Counselling Quality Classification 
+#### How Do You Feel? Information Retrieval in Psychotherapy and Fair Ranking Assessment
 URL: https://link.springer.com/chapter/10.1007/978-3-031-37249-0_10
 
 Cite as (BibTex): 
